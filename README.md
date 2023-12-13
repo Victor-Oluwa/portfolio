@@ -1,10 +1,11 @@
-# EDUCATION
+
+# TECHINICAL SKILLS
 
 # WORK EXPERIENCE
 
 # PROJECTS
 
-## Flutter AR Furniture E-Commerce App
+## Lifestyle (Flutter AR Furniture E-Commerce App)
 
 Welcome to the Flutter-based Augmented Reality (AR) Furniture E-Commerce App for furniture shopping. This mobile application seamlessly combines the worlds of furniture shopping and augmented reality to provide users with an immersive and interactive shopping experience.
 
