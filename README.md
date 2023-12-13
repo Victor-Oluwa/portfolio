@@ -5,7 +5,7 @@
 
 # PROJECTS
 
-## Lifestyle (Flutter AR Furniture E-Commerce App)
+## 1. LIFESTYLE (Flutter Augmented Reality Furniture App)
 
 This is a Flutter-based Augmented Reality (AR) Furniture E-Commerce App for furniture shopping. This mobile application seamlessly combines the worlds of furniture shopping and augmented reality to provide users with an immersive and interactive shopping experience.
 
@@ -64,10 +64,11 @@ This is a Flutter-based Augmented Reality (AR) Furniture E-Commerce App for furn
 Quick one, guys: Some improvements have been made to the UI, such as fixing inconsistent text colors and addressing other minor faults. I'm currently quite busy, but I'll update the screenshots as soon as possible.
 
 
-# Flutter Smart Home Animated App
+## 2. FLUTTER SMART-HOME ANIMATED UI
 
 Welcome to the 'Animated Smart Home App'.
-This is more like a flutter UI freestyle. It features some really cool animation with a futuristic look and feel
+
+This is more like a flutter UI freestyle. It features some really cool animation with a futuristic look and feel.
 
 ### Animation Preview
 
