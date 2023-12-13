@@ -14,7 +14,7 @@ Welcome to the Flutter-based Augmented Reality (AR) Furniture E-Commerce App for
 ## Key Features:
 
 - **Node.js Backend with MongoDB:**
-  - A robust and scalable backend built on Node.js, ensuring seamless communication with the MongoDB database for efficient data storage and retrieval. Check the backend repo at (https://github.com/Victor-Oluwa/lifestyle-backend.git) for instuctions on how to set up the backend.
+  - A robust and scalable backend built on Node.js, ensuring seamless communication with the MongoDB database for efficient data storage and retrieval. Check the backend repo at (https:github.comVictor-Oluwalifestyle-backend.git) for instuctions on how to set up the backend.
 
 - **Firebase Push Notification:**
   - Keep users engaged and informed with Firebase push notifications, delivering real-time updates and personalized messages.
@@ -64,23 +64,23 @@ Welcome to the Flutter-based Augmented Reality (AR) Furniture E-Commerce App for
 
 ### 3D Model Preview
 
-<img src="/3d_preview.gif" width="20%" height="20%">
+<img src="3d_preview.gif" width="20%" height="20%">
 
 ### Some Screenshots
 
-<img src="/Home.png" width="20%" height="20%"> 
-<img src="/signUp.png" width="20%" height="20%">
-<img src="/category.png" width="20%" height="20%">
-<img src="/all_products.png" width="20%" height="20%">
-<img src="/Search.png" width="20%" height="20%">
-<img src="/Doc.png" width="20%" height="20%">
-<img src="/Cart.png" width="20%" height="20%">
-<img src="/notification.png" width="20%" height="20%">
-<img src="/AR.png" width="20%" height="20%">
-<img src="/productDetails.png" width="20%" height="20%">
-<img src="/add_product.png" width="20%" height="20%">
-<img src="/edit_product.png" width="20%" height="20%">
-<img src="/Tracking.png" width="20%" height="20%">
+<img src="Home.png" width="20%" height="20%"> 
+<img src="signUp.png" width="20%" height="20%">
+<img src="category.png" width="20%" height="20%">
+<img src="all_products.png" width="20%" height="20%">
+<img src="Search.png" width="20%" height="20%">
+<img src="Doc.png" width="20%" height="20%">
+<img src="Cart.png" width="20%" height="20%">
+<img src="notification.png" width="20%" height="20%">
+<img src="AR.png" width="20%" height="20%">
+<img src="productDetails.png" width="20%" height="20%">
+<img src="add_product.png" width="20%" height="20%">
+<img src="edit_product.png" width="20%" height="20%">
+<img src="Tracking.png" width="20%" height="20%">
 
 
 Quick one, guys: Some improvements have been made to the UI, such as fixing inconsistent text colors and addressing other minor faults. I'm currently quite busy, but I'll update the screenshots as soon as possible.
