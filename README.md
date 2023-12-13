@@ -12,13 +12,13 @@ This is a Flutter-based Augmented Reality (AR) Furniture E-Commerce App for furn
 ## Key Features:
 
 - Node.js Backend with MongoDB
-- Firebase Push Notification:**
+- Firebase Push Notification: **
 - Augmented Reality Furniture View
 - Interactive 3D Model View of Furniture
 - E-Commerce Functionality
 - Product Search
 - Order Tracking
-- Admin Side Management
+- Admin Side Management 
 - Paystack Payment Integration
 - Company Documents View
 
