@@ -62,3 +62,16 @@ This is a Flutter-based Augmented Reality (AR) Furniture E-Commerce App for furn
 
 
 Quick one, guys: Some improvements have been made to the UI, such as fixing inconsistent text colors and addressing other minor faults. I'm currently quite busy, but I'll update the screenshots as soon as possible.
+
+
+# Flutter Smart Home Animated App
+
+Welcome to the 'Animated Smart Home App'.
+This is more like a flutter UI freestyle. It features some really cool animation with a futuristic look and feel
+
+### Animation Preview
+
+![Preview](gif.gif)
+
+![App UI](ui.png)
+
