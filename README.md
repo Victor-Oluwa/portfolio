@@ -102,10 +102,10 @@ This project is an actual working analog clock and not just a UI. It features bo
 
 **Preview**
 
-<img src="clock-preview.gif" width="20%" height="20%">
+<img src="clock-preview.gif" width="40%" height="40%">
 
 **Screenshots**
 
-<img src="clock_dark.png" width="20%" height="20%">
-<img src="clock-light.png" width="20%" height="20%">
+<img src="clock_dark.png" width="40%" height="40%">
+<img src="clock-light.png" width="40%" height="40%">
 
