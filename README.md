@@ -1,7 +1,24 @@
 
 ## TECHINICAL SKILLS
+- Flutter/Dart
+- Node.js / express
+- Javascript
+- Debugging
+- Firebase
+- Appwrite
 
+  
 ## WORK EXPERIENCE
+**Gemona West Lifestyle:**  2022 - present
+ - Created an Augmented Reality / Ecommerce furniture app for clients in the real estate development and interior design industry.
+ - Act as a point of contact between clients, vendors, and internal staff.
+ - Handle incoming and outgoing communications.
+ - Coordinate appointments, meetings.
+ - Assist in the recruitment process
+ - Provide IT support for staff, including troubleshooting.
+ - Maintain organized and accurate records, including client contracts, project documents, and financial records
+ - Manage office supplies, equipment, and maintenance to ensure a productive work environment.
+ - Managing office technology and software systems. This includes troubleshooting technical issues and ensuring that the team has access to the necessary tools.
 
 ## PROJECTS
 
@@ -71,19 +88,19 @@ Welcome to the 'Animated Smart Home App'.
 This is more like a flutter UI freestyle. It features some really cool animation with a futuristic look and feel.
 
 
-### Animation Preview
+**Animation Preview**
 
 ![Preview](gif.gif)
 
 ![App UI](ui.png)
 
 
-FLUTTER ANALOG-CLOCK (LIGHT AND DART THEME)
-Welcome to the Flutte Analog-Clock
+**3. FLUTTER ANALOG-CLOCK (LIGHT AND DART THEME)**
+Welcome to the Flutter Analog-Clock.
 
 This project is an actual working analog clock and not just a UI. It features both dark mode and light mode, automatically transitioning to dark mode at night and light mode during the day. However, if you wish to time travel to either daytime or nighttime, you can achieve that simply by tapping a button.
 
-**Animation Preview**
+**Preview**
 
 <img src="clock-preview.gif" width="20%" height="20%">
 
