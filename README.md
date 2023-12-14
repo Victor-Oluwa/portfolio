@@ -59,7 +59,7 @@ This is a Flutter-based Augmented Reality (AR) Furniture E-Commerce App for furn
 
 **3D Model Preview**
 
-<img src="3d_preview.gif" width="20%" height="20%">
+<img src="3d_preview.gif" width="40%" height="40%">
 
 **Some Screenshots**
 
@@ -102,10 +102,10 @@ This project is an actual working analog clock and not just a UI. It features bo
 
 **Preview**
 
-<img src="clock-preview.gif" width="40%" height="40%">
+<img src="clock-preview.gif" width="50%" height="50%">
 
 **Screenshots**
 
-<img src="clock_dark.png" width="40%" height="40%">
-<img src="clock-light.png" width="40%" height="40%">
+<img src="clock_dark.png" width="50%" height="50%">
+<img src="clock-light.png" width="50%" height="50%">
 
