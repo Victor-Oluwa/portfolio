@@ -1,15 +1,15 @@
 
-# TECHINICAL SKILLS
+## TECHINICAL SKILLS
 
-# WORK EXPERIENCE
+## WORK EXPERIENCE
 
-# PROJECTS
+## PROJECTS
 
-## 1. LIFESTYLE (Flutter Augmented Reality Furniture App)
+**1. LIFESTYLE (FLUTTER AUGMENTED REALITY FURNITURE APP)**
 
 This is a Flutter-based Augmented Reality (AR) Furniture E-Commerce App for furniture shopping. This mobile application seamlessly combines the worlds of furniture shopping and augmented reality to provide users with an immersive and interactive shopping experience.
 
-## Key Features:
+**Key Features:**
 
 - Node.js Backend with MongoDB
 - Firebase Push Notification: **
@@ -22,7 +22,7 @@ This is a Flutter-based Augmented Reality (AR) Furniture E-Commerce App for furn
 - Paystack Payment Integration
 - Company Documents View
 
-## Technologies Used:
+**Technology Used:**
 
 - **Frontend:**
   - Flutter
@@ -40,11 +40,11 @@ This is a Flutter-based Augmented Reality (AR) Furniture E-Commerce App for furn
   - Paystack
 
 
-### 3D Model Preview
+**3D Model Preview**
 
 <img src="3d_preview.gif" width="20%" height="20%">
 
-### Some Screenshots
+**Some Screenshots**
 
 <img src="Home.png" width="20%" height="20%"> 
 <img src="signUp.png" width="20%" height="20%">
@@ -61,7 +61,7 @@ This is a Flutter-based Augmented Reality (AR) Furniture E-Commerce App for furn
 <img src="Tracking.png" width="20%" height="20%">
 
 
-Quick one, guys: Some improvements have been made to the UI, such as fixing inconsistent text colors and addressing other minor faults. I'm currently quite busy, but I'll update the screenshots as soon as possible.
+Some improvements have been made to the UI, such as fixing inconsistent text colors and addressing other minor faults. I'll update the screenshots as soon as I'm chanced.
 
 
 ## 2. FLUTTER SMART-HOME ANIMATED UI
@@ -70,9 +70,25 @@ Welcome to the 'Animated Smart Home App'.
 
 This is more like a flutter UI freestyle. It features some really cool animation with a futuristic look and feel.
 
+
 ### Animation Preview
 
 ![Preview](gif.gif)
 
 ![App UI](ui.png)
+
+
+FLUTTER ANALOG-CLOCK (LIGHT AND DART THEME)
+Welcome to the Flutte Analog-Clock
+
+This project is an actual working analog clock and not just a UI. It features both dark mode and light mode, automatically transitioning to dark mode at night and light mode during the day. However, if you wish to time travel to either daytime or nighttime, you can achieve that simply by tapping a button.
+
+**Animation Preview**
+
+<img src="clock-preview.gif" width="20%" height="20%">
+
+**Screenshots**
+
+<img src="clock_dark.png" width="20%" height="20%">
+<img src="clock-light.png" width="20%" height="20%">
 
