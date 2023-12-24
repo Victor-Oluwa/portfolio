@@ -81,37 +81,3 @@ Checkout the source code on Github: https://github.com/Victor-Oluwa/lifestyle.gi
 
 
 Some improvements have been made to the UI, such as fixing inconsistent text colors and addressing other minor faults. I'll update the screenshots as soon as I'm chanced.
-
-
-## 2. FLUTTER SMART-HOME ANIMATED UI
-
-Welcome to the 'Animated Smart Home App'.
-
-This is more like a flutter UI freestyle. It features some really cool animation with a futuristic look and feel.
-
-
-**Animation Preview**
-
-![Preview](gif.gif)
-
-![App UI](ui.png)
-
-Check out the source code on GitHub: https://github.com/Victor-Oluwa/Smart-Home-UI.git
-
-
-## 3. FLUTTER ANALOG-CLOCK (LIGHT AND DART THEME)
-Welcome to the Flutter Analog-Clock.
-
-This project is an actual working analog clock and not just a UI. It features both dark mode and light mode, automatically transitioning to dark mode at night and light mode during the day. However, if you wish to time travel to either daytime or nighttime, you can achieve that simply by tapping a button.
-
-**Preview**
-
-<img src="clock-preview.gif" width="40%" height="40%">
-
-**Screenshots**
-
-<img src="clock_dark.png" width="20%" height="20%">
-<img src="clock-light.png" width="20%" height="20%">
-
-Check out the source code on GitHub: https://github.com/Victor-Oluwa/Analog-Clock.git
-
